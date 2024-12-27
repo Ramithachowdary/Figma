@@ -34,7 +34,7 @@ Figma
 
 ## CODE:
 ```
-[12:48 pm, 27/12/2024] Santhosh 🧠Sec Ece Senior: <div class="frame-1">
+<div class="frame-1">
   <img class="th-removebg-preview-1-1" src="th-removebg-preview-1-10.png" />
   <div class="rectangle-1"></div>
   <div class="register">REGISTER</div>
@@ -45,7 +45,7 @@ Figma
     src="saveetha-logo-removebg-preview-1-10.png"
   />
 </div>
-[12:48 pm, 27/12/2024] Santhosh 🧠Sec Ece Senior: .frame-1,
+.frame-1,
 .frame-1 * {
   box-sizing: border-box;
 }
@@ -115,7 +115,7 @@ Figma
   top: 128px;
   object-fit: cover;
 }
-[12:49 pm, 27/12/2024] Santhosh 🧠Sec Ece Senior: <div class="android-medium-1">
+<div class="android-medium-1">
   <div class="ellipse-1"></div>
   <div class="events">EVENTS</div>
   <img class="star-1" src="star-10.svg" />
@@ -139,7 +139,7 @@ Figma
   <div class="fashion-walk">FASHION WALK</div>
   <div class="fusion-trails">FUSION TRAILS</div>
 </div>
-[12:50 pm, 27/12/2024] Santhosh 🧠Sec Ece Senior: .android-medium-1,
+ .android-medium-1,
 .android-medium-1 * {
   box-sizing: border-box;
 }
